@@ -22,7 +22,7 @@ session.login()
 #session.like_by_tags(["bmw", "steam"], amount = 3)
 #session.set_dont_like(["nsfw"])
 
-session.unfollow_users(amount=6, allFollowing=True, sleep_delay=60)
+session.unfollow_users(amount=10000, allFollowing=True, sleep_delay=60)
 session.end()
 
 
