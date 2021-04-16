@@ -1,5 +1,6 @@
 # instagramBot
-
+NOTE WAJIB PUNYA ```INSTAPY```
+cara install? ```pip install instapy```
 # How to use:
 2. Open insta_bot.py in a text editor and edit Line 4 typing your instagram username and password.
 3. Open terminal or cmd again and run bot using this command: ```python insta_bot.py```.
@@ -27,7 +28,7 @@ session.end()
 
 
 
-NOTE NYA BACA = WAJIB PUNYA INSTAPY, GAPUNYA?
+
 
 FOR PC CMD/POWERSHELL =
 1.DOWNLOAD PYTHON DI ```python.org/downloads```
