@@ -2,8 +2,8 @@
 NOTE WAJIB PUNYA ```INSTAPY```
 cara install? ```pip install instapy```
 # How to use:
-2. Open insta_bot.py in a text editor and edit Line 4 typing your instagram username and password.
-3. Open terminal or cmd again and run bot using this command: ```python insta_bot.py```.
+1. Open insta_bot.py in a text editor and edit Line 4 typing your instagram username and password.
+2. Open terminal or cmd again and run bot using this command: ```python insta_bot.py```.
 
 
 Cara unfollow semua yang kita ikutin gimana bang?
@@ -29,8 +29,8 @@ session.end()
 
 
 
-
-FOR PC CMD/POWERSHELL =
+#Untuk Cmd/Powershell/Gitbash
+FOR PC CMD/POWERSHELL/GITBASH =
 1.DOWNLOAD PYTHON DI ```python.org/downloads```
 2.UNTUK WINDOWS =   ```https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe```
 4.DOWNLOAD GIT DI ```https://git-scm.com/```
@@ -45,7 +45,7 @@ FOR PC CMD/POWERSHELL =
 
 
 
-
+#TERMOS ES
 
 
 BUAT HP
