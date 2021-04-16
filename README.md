@@ -30,7 +30,7 @@ session.end()
 NOTE NYA BACA = WAJIB PUNYA INSTAPY, GAPUNYA?
 
 FOR PC CMD/POWERSHELL =
-1.DOWNLOAD PYTHON DI ```python.org/downloads```\n
+1.DOWNLOAD PYTHON DI ```python.org/downloads```
 2.UNTUK WINDOWS =   ```https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe```
 4.DOWNLOAD GIT DI ```https://git-scm.com/```
 5.GIT UNTUK WINDOWS = ```https://git-scm.com/download/win```
