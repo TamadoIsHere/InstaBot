@@ -29,7 +29,7 @@ session.end()
 
 
 
-#Untuk Cmd/Powershell/Gitbash
+# Untuk Cmd/Powershell/Gitbash :
 FOR PC CMD/POWERSHELL/GITBASH =
 1.DOWNLOAD PYTHON DI ```python.org/downloads```
 2.UNTUK WINDOWS =   ```https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe```
@@ -45,7 +45,7 @@ FOR PC CMD/POWERSHELL/GITBASH =
 
 
 
-#TERMOS ES
+# TERMOS ES :
 
 
 BUAT HP
